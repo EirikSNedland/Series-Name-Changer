@@ -1,4 +1,4 @@
-# Series-Name-Changer
+# Bulk Name Changer
 Change filenames
 
 ## How to use
