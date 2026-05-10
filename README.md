@@ -12,4 +12,6 @@ The files to be changed needs to be added to the Items folder. Another option is
 Save the file and run it from terminal.
 
 ## Testing
+TestCases folder includes the test scenarioes the script was testet on. Add more if nessecary and copy over to items folder. Run script and see if it works as intended.
+
 Make sure all files have prefix. The file in testdata that ends with .5 without .txt after will end up as "-part2.5" isntead of "-part2".
