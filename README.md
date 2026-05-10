@@ -3,9 +3,9 @@ Change filenames
 
 ## How to use
 Enter the configuration in main file. 
-NAME_PREFIX should be name of series
-DEFAULT_SEASON needs to be set if the current filenames does not include season number
-LANGUAGE should be set if it is a .srt file 
+* NAME_PREFIX new file name
+* DEFAULT_SEASON needs to be set if the current filenames does not include season number
+* LANGUAGE should be set if it is a .srt file 
 
 Save the file and run it from terminal
 
